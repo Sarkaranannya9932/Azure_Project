@@ -1,0 +1,15 @@
+{
+	"name": "df-Anannya-new",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7355c69b-62e7-4e9e-bcb5-c0ed29561802",
+		"tenantId": "0ef854d9-b367-45e6-bf60-9b44cb293f84"
+	}
+}
